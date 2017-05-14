@@ -3,7 +3,7 @@
  keras == 1.2.2<br>
  tensorflow == 0.10<br>
  
-  
+ 
 # dataset
 cifar10(just one line): from keras.datasets import cifar10
  
@@ -12,10 +12,13 @@ cifar10(just one line): from keras.datasets import cifar10
 
 
 # code
-using the InceptionV3 to extract conv_features
-after 3 iterations,training accuracy is 99.87,testing accuracy is 95.68
+using the InceptionV3 to extract conv_features<br>
+after 3 iterations,training accuracy is 99.87,testing accuracy is 95.68<br>
 
-also,some tricks are learned from:https://github.com/jazzsaxmafia/Weakly_detector
+Step: (1):run train.py
+      (2):run draw_detector.py
+
+also,some tricks are learned from:https://github.com/jazzsaxmafia/Weakly_detector<br>
 
 
 # Results show
