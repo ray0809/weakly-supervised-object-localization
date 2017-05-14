@@ -23,11 +23,15 @@ Here we just show some samples...
 
 
 
-epoch 1:
-![sample 1](https://github.com/ray0809/weakly-supervised-object-localization/blob/master/result_pic/1.jpg,https://github.com/ray0809/weakly-supervised-object-localization/blob/master/result_pic/2.jpg)
+# Sample 1
+![sample and hotmat 1](https://github.com/ray0809/weakly-supervised-object-localization/blob/master/result_pic/1.jpg)
+![combine 1](https://github.com/ray0809/weakly-supervised-object-localization/blob/master/result_pic/2.jpg)
 
-epoch 100:
-![epoch_100](https://github.com/ray0809/pix2pix/blob/master/target2pic/pic_100.png)
 
-epoch_200:
-![epoch_200](https://github.com/ray0809/pix2pix/blob/master/target2pic/pic_200.png)
+# Sample 1
+![sample and hotmat 1](https://github.com/ray0809/weakly-supervised-object-localization/blob/master/result_pic/3.jpg)
+![combine 1](https://github.com/ray0809/weakly-supervised-object-localization/blob/master/result_pic/4.jpg)
+
+# Sample 1
+![sample and hotmat 1](https://github.com/ray0809/weakly-supervised-object-localization/blob/master/result_pic/5.jpg)
+![combine 1](https://github.com/ray0809/weakly-supervised-object-localization/blob/master/result_pic/6.jpg)
