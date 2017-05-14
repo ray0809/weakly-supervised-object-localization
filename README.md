@@ -1,5 +1,5 @@
 # Weakly-supervised-object-localization
-simple weakly dectector implemeted by keras and tensorflow<br>
+ simple weakly dectector implemeted by keras and tensorflow<br>
  keras == 1.2.2<br>
  tensorflow == 0.10<br>
  
@@ -11,8 +11,11 @@ cifar10(just one line): from keras.datasets import cifar10
 [Learning Deep Features for Discriminative Localization](https://arxiv.org/pdf/1512.04150.pdf)
 
 
+# code
+using the InceptionV3 to extract conv_features
+after 3 iterations,training accuracy is 99.87,testing accuracy is 95.68
 
-some tricks are learned from:https://github.com/jazzsaxmafia/Weakly_detector
+also,some tricks are learned from:https://github.com/jazzsaxmafia/Weakly_detector
 
 
 # Results show
