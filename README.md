@@ -24,7 +24,7 @@ Here we just show some samples...
 
 
 epoch 1:
-![epoch_1](https://github.com/ray0809/pix2pix/blob/master/target2pic/pic_1.png)
+![sample 1](https://github.com/ray0809/weakly-supervised-object-localization/blob/master/result_pic/1.jpg,https://github.com/ray0809/weakly-supervised-object-localization/blob/master/result_pic/2.jpg)
 
 epoch 100:
 ![epoch_100](https://github.com/ray0809/pix2pix/blob/master/target2pic/pic_100.png)
