@@ -23,15 +23,15 @@ Here we just show some samples...
 
 
 
-# Sample 1
+Sample 1:
 ![sample and hotmat 1](https://github.com/ray0809/weakly-supervised-object-localization/blob/master/result_pic/1.jpg)
 ![combine 1](https://github.com/ray0809/weakly-supervised-object-localization/blob/master/result_pic/2.jpg)
 
 
-# Sample 1
+Sample 2:
 ![sample and hotmat 1](https://github.com/ray0809/weakly-supervised-object-localization/blob/master/result_pic/3.jpg)
 ![combine 1](https://github.com/ray0809/weakly-supervised-object-localization/blob/master/result_pic/4.jpg)
 
-# Sample 1
+Sample 3:
 ![sample and hotmat 1](https://github.com/ray0809/weakly-supervised-object-localization/blob/master/result_pic/5.jpg)
 ![combine 1](https://github.com/ray0809/weakly-supervised-object-localization/blob/master/result_pic/6.jpg)
