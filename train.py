@@ -38,10 +38,15 @@ def Resize(x):
 
 
 '''
-Here we set the default input image size for this model is 224x224.
+Here we set the default input image size for this model is 256x256.
+
+Beacuse small size may result too small conv_feature when pic's size is 32x32
+'''
 
 
 
+
+'''
 def creat_model():
     inputs = Input(shape=(32,32,3))
     #Notic : preprocess is different in each Model
