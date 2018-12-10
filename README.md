@@ -1,5 +1,5 @@
 # Weakly-supervised-object-localization
- simple weakly dectector implemeted by keras and tensorflow<br>
+  simple weakly dectector implemeted by keras and tensorflow<br>
  keras == 1.2.2<br>
  tensorflow == 0.10<br>
  
