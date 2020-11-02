@@ -1,8 +1,9 @@
 # Weakly-supervised-object-localization
-  simple weakly dectector implemeted by keras and tensorflow<br>
- keras == 1.2.2<br>
- tensorflow == 0.10<br>
- 
+simple weakly dectector  
+
+we rewrite two version:  
+keras + tensorflow2  
+pytorch
  
 # dataset
 cifar10(just one line): from keras.datasets import cifar10
@@ -15,8 +16,9 @@ cifar10(just one line): from keras.datasets import cifar10
 using the InceptionV3 to extract conv_features<br>
 after 3 iterations,training accuracy is 99.87,testing accuracy is 95.68<br>
 
-Step: (1):run train.py<br>
-      (2):run draw_detector.py<br>
+Step:   
+(1):run train.py<br>
+(2):run draw_detector.py<br>
 
 also,some tricks are learned from:https://github.com/jazzsaxmafia/Weakly_detector<br>
 
