@@ -6,7 +6,7 @@ keras + tensorflow2
 pytorch
  
 # dataset
-cifar10(just one line): from keras.datasets import cifar10
+cifar10, it can be loaded by keras or pytorch with one line
  
 # author's paper
 [Learning Deep Features for Discriminative Localization](https://arxiv.org/pdf/1512.04150.pdf)
